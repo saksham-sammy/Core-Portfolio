@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# Local tooling & environment
+.env.*
+!.env.example
+!.env.template
+__pycache__/
+*.py[cod]
+AGENTS.md
+GEMINI.md
+CLAUDE.md
+.cursorrules
+AI_SHARED_MEMORY.md
+.gitpulse/
